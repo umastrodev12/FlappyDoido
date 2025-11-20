@@ -5,7 +5,11 @@
 
 🐦 Uma Recriação do Famoso Jogo Flappy Bird em Python.
 
-Eu recriei um dos clássicos ícones dos Games Antigos, O Flappy Bird! Ele foi feito em Python :3 
+Eu recriei um dos clássicos ícones dos Games Antigos, O Flappy Bird! Ele foi feito em Python :3
+
+Eu fiz esse jogo através de um tutorial no Youtube, pois não sei mexer muito com [PyGame](https://pygame.org/) e irei deixá-lo neste README! :3 
+
+https://youtu.be/PJjqXe0ABuo?si=moOjXBlhz5C3Ehja    (Não consigo colocar o VÍDEO em si, então deixarei o link, Créditos: Bytes Universe com Leo)
 
 ## 📕 Bibliotecas Python
 Este jogo utiliza apenas duas bibliotecas :P
