@@ -41,7 +41,6 @@ Este jogo utiliza apenas duas bibliotecas :P
 - [PyGame](https://pygame.org/)
 - Random
 
-Para a Parte Web utilizamos py-script, veja o arquivo ["index.html"](index.html)
 ## 💸 Como Doar
 Apoie meus projetos! Basta [Clicar aqui!](https://livepix.gg/astrooficial)
 
