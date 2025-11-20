@@ -11,11 +11,37 @@ Eu fiz esse jogo através de um tutorial no Youtube, pois não sei mexer muito c
 
 https://youtu.be/PJjqXe0ABuo?si=moOjXBlhz5C3Ehja    (Não consigo colocar o VÍDEO em si, então deixarei o link, Créditos: Bytes Universe com Leo)
 
+
+## 💻 Como Rodar
+Para rodar o **FlappyDoido** na sua Máquina basta estes simples passos abaixo:
+### ⚠️Requisitos
+- Ter o Visual Studio Code instalado na sua máquina.
+- Ter o Python instalado na sua máquina.
+## 💻 Rodando Localmente
+1.  Clone o repositório:
+```bash
+git clone https://github.com/umastrodev12/FlappyDoido.git
+cd FlappyDoido
+```
+
+2. Instale as dependências:
+```bash
+pip install pygame
+```
+
+3. Rode o jogo:
+```bash
+python FlappyDoido.py
+```
+
+
 ## 📕 Bibliotecas Python
 Este jogo utiliza apenas duas bibliotecas :P
 
 - [PyGame](https://pygame.org/)
 - Random
+
+Para a Parte Web utilizamos py-script, veja o arquivo ["index.html"](index.html)
 ## 💸 Como Doar
 Apoie meus projetos! Basta [Clicar aqui!](https://livepix.gg/astrooficial)
 
