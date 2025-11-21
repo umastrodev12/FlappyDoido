@@ -39,7 +39,7 @@ class FlappyDoido:
         self.ground_3_pos     = [2020, 634]
 
         background = pg.image.load('./Background.png')
-        bird       = pg.image.load('./Bird.png')
+        bird       = pg.image.load('./1380b760eb8e453af8f6191da9540b5d.jpg')
         ground     = pg.image.load('./Ground.png')
         pipe       = pg.image.load('./Pipe.png')
         pipe_usd   = pg.image.load('./Pipe Up Side Down.png')
