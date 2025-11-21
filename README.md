@@ -41,6 +41,9 @@ Este jogo utiliza apenas duas bibliotecas :P
 - [PyGame](https://pygame.org/)
 - Random
 
+## 🎮 Como Jogar
+Pressione a tecla "Space" ou "Espaço" para fazer o Pólux(O Pássaro do Jogo) pular e passar pelos canos, e depois chegue no final
+
 ## 💸 Como Doar
 Apoie meus projetos! Basta [Clicar aqui!](https://livepix.gg/astrooficial)
 
